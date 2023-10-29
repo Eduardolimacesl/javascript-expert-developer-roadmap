@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Javascript Expert - Developer Roadmap](README.md)
+* [Dev Roadmap](README.md)
+* [JavaScript Testing](javascript-testing/README.md)
+  * [Mocs, Stubs e Spies](javascript-testing/mocs-stubs-e-spies.md)
